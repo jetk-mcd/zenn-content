@@ -1,6 +1,6 @@
 # X投稿文（Zenn記事公開用）
 
-ZENN_URL は公開後のZenn記事URLに置き換える。1〜4をスレッド（返信でつなぐ）で投稿。
+記事は2026-09-20に公開済み。1〜4をスレッド（返信でつなぐ）で投稿する。
 
 ## 1（起点）
 日本の人気サイト1,000件をPageSpeed Insightsで一括計測したら、1位はTBSの「モバイル100点」でした。
@@ -8,7 +8,7 @@ ZENN_URL は公開後のZenn記事URLに置き換える。1〜4をスレッド�
 テレビ局のサイトが100点。おかしいと思って調べたら、872バイトの404ページを測っていました。
 
 計測基盤を2回作り直した話をZennに書きました
-ZENN_URL
+https://zenn.dev/vera/articles/pagespeed-benchmark-data-quality
 
 ## 2
 地雷1：wwwなしのドメインにAレコードがないサイトが多すぎる。
@@ -38,4 +38,4 @@ https://seoshindan.com/
 テレビ局のサイトが100点はおかしい→調べたら872バイトの404ページを測っていた→計測基盤を2回作り直した、という話をZennに書きました。
 
 728サイトの中央値は45点です
-ZENN_URL
+https://zenn.dev/vera/articles/pagespeed-benchmark-data-quality
